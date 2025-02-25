@@ -14,11 +14,10 @@
 + You can request one from [BotFather](https://t.me/botfather) in Telegram
 
 <br>
-<br>
-<p align="center">
-  <img style="float=left" src="https://i.postimg.cc/x1D08tQL/image.png" />
-  <img style="float=left" src="https://i.postimg.cc/wxnt55Hj/image.png" />
-</p>
+<div style="display: flex; justify-content: center;">
+  <img src="https://i.postimg.cc/x1D08tQL/image.png" style="margin-right: 10px;">
+  <img src="https://i.postimg.cc/wxnt55Hj/image.png">
+</div>
 <br>
 
 # Installation
