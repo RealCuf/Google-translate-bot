@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://i.postimg.cc/JhsKFcyd/image.png" />
 </p>
-<br>
 
 # Google translate telegram bot to get your translate text
 + Send translate text
