@@ -16,8 +16,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://i.postimg.cc/x1D08tQL/image.png" />
-  <img src="https://i.postimg.cc/wxnt55Hj/image.png" />
+  <img src="https://i.postimg.cc/x1D08tQL/image.png" /><img src="https://i.postimg.cc/wxnt55Hj/image.png" />
 </p>
 <br>
 
