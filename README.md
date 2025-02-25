@@ -15,8 +15,8 @@
 
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://i.postimg.cc/x1D08tQL/image.png" style="width: 150px; margin-right: 10px;">
-  <img src="https://i.postimg.cc/wxnt55Hj/image.png" style="width: 150px;">
+  <img src="https://i.postimg.cc/x1D08tQL/image.png" style="width: 350px; margin-right: 10px;">
+  <img src="https://i.postimg.cc/wxnt55Hj/image.png" style="width: 350px;">
 </div>
 <br>
 
