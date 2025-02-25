@@ -5,7 +5,7 @@
 # Google translate telegram bot to get your translate text
 + Send translate text
 + Send translate voice
-+ Supports 81 languages.
++ Supports 81 languages
 
 # Configuration
 + Open **main.py** and set your **bot token**, **api hash** and **api id**
