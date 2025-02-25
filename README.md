@@ -15,10 +15,10 @@
 
 <br>
 <br>
-<div style="text-align: center;">
-  <img src="https://i.postimg.cc/x1D08tQL/image.png" style="display: inline-block; margin-right: 10px;">
-  <img src="https://i.postimg.cc/wxnt55Hj/image.png" style="display: inline-block;">
-</div>
+<p align="center">
+  <img style="float=left" src="https://i.postimg.cc/x1D08tQL/image.png" />
+  <img style="float=left" src="https://i.postimg.cc/wxnt55Hj/image.png" />
+</p>
 <br>
 
 # Installation
